@@ -1,7 +1,5 @@
 # tensorprime
 
-A minimal, extensible deep learning framework with custom tensor operations, autograd, neural network layers, and a built-in performance profiler (inspired by Karapthy)
-
 ---
 
 ## Features
