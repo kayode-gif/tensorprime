@@ -1,12 +1,12 @@
 # tensorprime
 
-A minimal, extensible deep learning framework with custom tensor operations, autograd, neural network layers, and a built-in performance profiler.
+A minimal, extensible deep learning framework with custom tensor operations, autograd, neural network layers, and a built-in performance profiler (inspired by Karapthy)
 
 ---
 
 ## Features
 
-- **Custom Tensor Engine:**  
+- **Custom Tensor Engine:**
   Supports broadcasting, operator overloading, and automatic differentiation.
 
 - **Neural Network Layers:**  
@@ -15,11 +15,8 @@ A minimal, extensible deep learning framework with custom tensor operations, aut
 - **Losses & Optimizers:**  
   Includes MSE loss and SGD optimizer; easy to extend.
 
-- **Performance Profiler:**  
+- ** Custom Performance Profiler:**  
   Analyze per-operation CPU time, memory usage, and call frequency for both ops and layers.
-
-- **Clean, Modular Codebase:**  
-  Easy to read, extend, and experiment with new ideas.
 
 ---
 
