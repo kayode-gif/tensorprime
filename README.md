@@ -15,7 +15,7 @@ A minimal, extensible deep learning framework with custom tensor operations, aut
 - **Losses & Optimizers:**  
   Includes MSE loss and SGD optimizer; easy to extend.
 
-- ** Custom Performance Profiler:**  
+- **Custom Performance Profiler:**  
   Analyze per-operation CPU time, memory usage, and call frequency for both ops and layers.
 
 ---
